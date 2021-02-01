@@ -3,7 +3,7 @@
 
         <div class="container">
             <div class="content">
-                <span class="test-border">Nos Réseaux Sociaux</span>
+                <span class="sous-titre">Nos Réseaux Sociaux</span>
                 <a href="#">
                     <img src="images/001-facebook.png" alt="">
                 </a>
@@ -21,8 +21,8 @@
     <section class="container">
 
         <div class="content">
-            <a href="#">Politique de confidentialité</a>
-            <a href="#">Mentions légales</a>
+            <a class="sous-titre" href="#">Politique de confidentialité</a>
+            <a class="sous-titre" href="#">Mentions légales</a>
         </div>
 
     </section>
