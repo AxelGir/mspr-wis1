@@ -3,6 +3,9 @@
 <?php require_once 'layouts/header.php' ?>
 
     <main id="main">
+        <div>
+            <img src="images/gourde-stylee.jpg">
+        </div>
         <section id="home-concept">
             <div class="container">
                 <h2 class="home-title">- Notre concept -</h2>

@@ -1,13 +1,13 @@
-<footer>
-    <section>
+<footer id="footer">
+    <section id="foot-left">
 
         <div class="container">
             <div class="content">
                 <span class="sous-titre">Nos Réseaux Sociaux</span>
-                <a href="#">
+                <a href="https://facebook.com">
                     <img src="images/001-facebook.png" alt="">
                 </a>
-                <a href="#">
+                <a href="https://twitter.com">
                     <img src="images/002-twitter.png" alt="">
                 </a>
                 <a href="#">
@@ -18,7 +18,7 @@
 
     </section>
 
-    <section class="container">
+    <section id="foot-right">
 
         <div class="content">
             <a class="sous-titre" href="#">Politique de confidentialité</a>
