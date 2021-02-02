@@ -20,4 +20,72 @@
 <body>
 
 
-<header> HEADER</header>
+<header class="header">
+    <a href="#" class="logo">LOGO</a>
+    <div class="menu-btn">
+        <div class="menu-btn_hamburger"></div>
+    </div>
+    <nav>
+        <ul class="menu-items">
+            <li>
+                <a class="menu-item" href="#">Accueil</a>
+            </li>
+            <li>
+                <a class="menu-item" href="#">Concept</a>
+            </li>
+            <li>
+                <a class="menu-item expand-btn" href="#">Nos gourdes</a>
+                <div class="mega-menu blog expandable">
+                    <div class="content">
+                        <div class="col"><a href="#" class="img-wrapper"><span class="img"><img
+                                            src="https://picsum.photos/400?random=2"
+                                            alt="Random Image 2"></span></a>
+                            <h2>Title</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorem hic illum impedit
+                                officia officiis, perspiciatis quo ratione tempora voluptates!</p>
+                            <a href="#" class="read-more">en savoir plus</a></div>
+                    </div>
+                </div>
+                <div class="mega-menu blog">
+                    <div class="content">
+                        <div class="col"><a href="#" class="img-wrapper"><span class="img"><img
+                                            src="https://picsum.photos/400?random=2"
+                                            alt="Random Image 2"></span></a>
+                            <h2>Title</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorem hic illum impedit
+                                officia officiis, perspiciatis quo ratione tempora voluptates!</p>
+                            <a href="#" class="read-more">en savoir plus</a>
+                        </div>
+
+                        <div class="col"><a href="#" class="img-wrapper"><span class="img"><img
+                                            src="https://picsum.photos/400?random=3"
+                                            alt="Random Image 3"></span></a>
+                            <h2>Title</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorem hic illum impedit
+                                officia officiis, perspiciatis quo ratione tempora voluptates!</p>
+                            <a href="#" class="read-more">en savoir plus</a>
+                        </div>
+
+                        <div class="col"><a href="#" class="img-wrapper"><span class="img"><img
+                                            src="https://picsum.photos/400?random=4"
+                                            alt="Random Image 4"></span></a>
+                            <h2>Title</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorem hic illum impedit
+                                officia officiis, perspiciatis quo ratione tempora voluptates!</p>
+                            <a href="#" class="read-more">en savoir plus</a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <a class="menu-item" href="#">Tarifs</a>
+            </li>
+            <li>
+                <a class="menu-item" href="#">A propos</a>
+            </li>
+            <li>
+                <a class="menu-item" href="#">Contact</a>
+            </li>
+        </ul>
+    </nav>
+</header>
