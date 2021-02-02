@@ -29,10 +29,10 @@
     </div>
     <nav>
         <ul class="menu-items">
-            <li>
+            <li class="lien">
                 <a class="menu-item" href="./">Accueil</a>
             </li>
-            <li>
+            <li class="lien">
                 <a class="menu-item" href="./concept.php">Concept</a>
             </li>
             <li>

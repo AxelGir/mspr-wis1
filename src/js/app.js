@@ -1,13 +1,19 @@
-// Import just what we need
+require('bootstrap');
 
-// import 'bootstrap/js/dist/alert';
-// import 'bootstrap/js/dist/button';
-import 'bootstrap/js/dist/carousel';
-import 'bootstrap/js/dist/collapse';
-// import 'bootstrap/js/dist/dropdown';
-// import 'bootstrap/js/dist/modal';
-// import 'bootstrap/js/dist/popover';
-// import 'bootstrap/js/dist/scrollspy';
-// import 'bootstrap/js/dist/tab';
-// import 'bootstrap/js/dist/toast';
-// import 'bootstrap/js/dist/tooltip';
+// MON JS CUSTOM
+const menuBtn = document.querySelector(".menu-btn");
+const menuItems = document.querySelector(".menu-items");
+const expandBtn = document.querySelectorAll(".expand-btn");
+
+//hamburger toggle
+menuBtn.addEventListener("click", () => {
+    menuBtn.classList.toggle("open");
+    menuItems.classList.toggle("open");
+});
+
+// mobile menu expand
+expandBtn.forEach((btn) => {
+    btn.addEventListener("click", () => {
+        btn.classList.toggle("open");
+    });
+});
