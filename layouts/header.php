@@ -30,10 +30,10 @@
     <nav>
         <ul class="menu-items">
             <li>
-                <a class="menu-item" href="#">Accueil</a>
+                <a class="menu-item" href="./">Accueil</a>
             </li>
             <li>
-                <a class="menu-item" href="#">Concept</a>
+                <a class="menu-item" href="./concept.php">Concept</a>
             </li>
             <li>
                 <a class="menu-item expand-btn" href="#">Nos gourdes</a>
@@ -50,37 +50,37 @@
                 </div>
                 <div class="mega-menu blog">
                     <div class="content">
-                        <div class="col"><a href="#" class="img-wrapper"><span class="img"><img
+                        <div class="col"><a href="./details-plastique.php" class="img-wrapper"><span class="img"><img
                                             src="https://picsum.photos/400?random=2"
                                             alt="Random Image 2"></span></a>
-                            <h2>Title</h2>
+                            <h2>Gourde en plastique</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorem hic illum impedit
                                 officia officiis, perspiciatis quo ratione tempora voluptates!</p>
-                            <a href="#" class="read-more">en savoir plus</a>
+                            <a href="./details-plastique.php" class="read-more">en savoir plus</a>
                         </div>
 
-                        <div class="col"><a href="#" class="img-wrapper"><span class="img"><img
+                        <div class="col"><a href="./details-verre.php" class="img-wrapper"><span class="img"><img
                                             src="https://picsum.photos/400?random=3"
                                             alt="Random Image 3"></span></a>
-                            <h2>Title</h2>
+                            <h2>Gourde en verre</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorem hic illum impedit
                                 officia officiis, perspiciatis quo ratione tempora voluptates!</p>
-                            <a href="#" class="read-more">en savoir plus</a>
+                            <a href="./details-verre.php" class="read-more">en savoir plus</a>
                         </div>
 
-                        <div class="col"><a href="#" class="img-wrapper"><span class="img"><img
+                        <div class="col"><a href="./details-metal.php" class="img-wrapper"><span class="img"><img
                                             src="https://picsum.photos/400?random=4"
                                             alt="Random Image 4"></span></a>
-                            <h2>Title</h2>
+                            <h2>Gourde en métal</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorem hic illum impedit
                                 officia officiis, perspiciatis quo ratione tempora voluptates!</p>
-                            <a href="#" class="read-more">en savoir plus</a>
+                            <a href="./details-metal.php" class="read-more">en savoir plus</a>
                         </div>
                     </div>
                 </div>
             </li>
             <li>
-                <a class="menu-item" href="#">Tarifs</a>
+                <a class="menu-item" href="./tarifs.php">Tarifs</a>
             </li>
             <li>
                 <a class="menu-item" href="#">A propos</a>
