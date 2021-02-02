@@ -20,20 +20,17 @@
                 <div class="card">
                     <img src="https://placehold.it/100"
                          alt="gourde-en-plastique">
-                    <h3>Nos gourdes en plastique</h3>
-                    <a class="know-more" href="#">En savoir plus</a>
+                    <a class="tarifs-btn" href="#">Gourdes en plastique</a>
                 </div>
                 <div class="card">
                     <img src="https://placehold.it/100"
                          alt="gourde-en-verre">
-                    <h3>Nos gourdes en verre</h3>
-                    <a class="know-more" href="#">En savoir plus</a>
+                    <a class="tarifs-btn" href="#">Gourdes en verre</a>
                 </div>
                 <div class="card">
                     <img src="https://placehold.it/100"
                          alt="gourde-en-metal">
-                    <h3>Nos gourdes en métal</h3>
-                    <a class="know-more" href="#">En savoir plus</a>
+                    <a class="tarifs-btn" href="#">Gourdes en métal</a>
                 </div>
 
             </div>
