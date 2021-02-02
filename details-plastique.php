@@ -2,7 +2,7 @@
 
 <?php require_once 'layouts/header.php' ?>
 
-<mm<main id="main">
+<main id="main">
 
     <section id="presentation-top">
         <div class="container">
@@ -42,4 +42,4 @@
         </div>
     </section>
 
-</m</main>
+</main>
