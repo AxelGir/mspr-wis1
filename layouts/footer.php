@@ -3,18 +3,18 @@
 
         <div class="container">
             <div class="content">
-                <span class="sous-titre">Nos Réseaux Sociaux</span>
-                <a href="https://facebook.com">
-                    <img src="images/001-facebook.png" alt="">
-                </a>
-                <a href="https://twitter.com">
-                    <img src="images/002-twitter.png" alt="">
-                </a>
-                <a href="#">
-                    <img src="images/003-instagram.png" alt="">
-                </a>
+
+                    <a href="https://facebook.com">
+                        <img src="images/001-facebook.png" alt="">
+                    </a>
+                    <a href="https://twitter.com">
+                        <img src="images/002-twitter.png" alt="">
+                    </a>
+                    <a href="https://instagram.com">
+                        <img src="images/003-instagram.png" alt="">
+                    </a>
+                </div>
             </div>
-        </div>
 
     </section>
 
