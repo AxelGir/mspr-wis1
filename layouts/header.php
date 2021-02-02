@@ -37,25 +37,12 @@
             </li>
             <li>
                 <a class="menu-item expand-btn" href="#">Nos gourdes</a>
-                <div class="mega-menu blog expandable">
-                    <div class="content">
-                        <div class="col"><a href="#" class="img-wrapper"><span class="img"><img
-                                            src="https://picsum.photos/400?random=2"
-                                            alt="Random Image 2"></span></a>
-                            <h2>Title</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorem hic illum impedit
-                                officia officiis, perspiciatis quo ratione tempora voluptates!</p>
-                            <a href="#" class="read-more">en savoir plus</a></div>
-                    </div>
-                </div>
                 <div class="mega-menu blog">
                     <div class="content">
                         <div class="col"><a href="./details-plastique.php" class="img-wrapper"><span class="img"><img
                                             src="https://picsum.photos/400?random=2"
                                             alt="Random Image 2"></span></a>
                             <h2>Gourde en plastique</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorem hic illum impedit
-                                officia officiis, perspiciatis quo ratione tempora voluptates!</p>
                             <a href="./details-plastique.php" class="read-more">en savoir plus</a>
                         </div>
 
@@ -63,8 +50,6 @@
                                             src="https://picsum.photos/400?random=3"
                                             alt="Random Image 3"></span></a>
                             <h2>Gourde en verre</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorem hic illum impedit
-                                officia officiis, perspiciatis quo ratione tempora voluptates!</p>
                             <a href="./details-verre.php" class="read-more">en savoir plus</a>
                         </div>
 
@@ -72,8 +57,6 @@
                                             src="https://picsum.photos/400?random=4"
                                             alt="Random Image 4"></span></a>
                             <h2>Gourde en métal</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorem hic illum impedit
-                                officia officiis, perspiciatis quo ratione tempora voluptates!</p>
                             <a href="./details-metal.php" class="read-more">en savoir plus</a>
                         </div>
                     </div>
