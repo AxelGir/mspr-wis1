@@ -21,7 +21,9 @@
 
 
 <header class="header">
-    <a href="#" class="logo">LOGO</a>
+    <a href="#" class="logo">
+        <img src="images/logo%20Avant-gourde.png" alt="logo Avant-gourde">
+    </a>
     <div class="menu-btn">
         <div class="menu-btn_hamburger"></div>
     </div>
