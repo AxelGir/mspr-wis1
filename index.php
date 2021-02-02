@@ -1,6 +1,6 @@
-<?php require_once 'layouts/header.php' ?>
-
 <?php $title = 'Avant-Gourde - Accueil'; ?>
+
+<?php require_once 'layouts/header.php' ?>
 
     <main id="main">
         <section id="home-concept">
@@ -93,13 +93,13 @@
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="https://placehold.it/1920x600" class="d-block w-100" alt="...">
+                            <img src="images/Maestria.png" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="https://placehold.it/1920x600" class="d-block w-100" alt="...">
+                            <img src="images/maestria-2.png" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="https://placehold.it/1920x600" class="d-block w-100" alt="...">
+                            <img src="images/neww%20%20mae.png" class="d-block w-100" alt="...">
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">

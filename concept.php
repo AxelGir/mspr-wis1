@@ -1,6 +1,6 @@
-<?php require_once 'layouts/header.php' ?>
-
 <?php $title = 'Avant-Gourde - Concept'; ?>
+
+<?php require_once 'layouts/header.php' ?>
 
     <main id="main">
 
