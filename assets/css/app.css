@@ -10725,6 +10725,12 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.btn-know-more {
+  border: solid 2px red;
+  text-decoration: none;
+  color: #360890;
+}
+
 .header {
   background: #360890;
   position: relative;
@@ -11033,16 +11039,15 @@ textarea.form-control-lg {
   justify-content: center;
   -moz-column-count: 2;
        column-count: 2;
-  -moz-column-gap: 50%;
-       column-gap: 50%;
+  -moz-column-gap: 30%;
+       column-gap: 30%;
 }
 
 #foot-left {
   border: solid 2px lime;
-  height: 150px;
-  width: 400px;
   display: flex;
-  justify-items: center;
+  justify-content: center;
+  min-width: 400px;
 }
 
 #foot-left img {
@@ -11065,9 +11070,31 @@ textarea.form-control-lg {
 
 #foot-right {
   border: solid 2px yellow;
+  display: flex;
+  justify-content: center;
 }
 
 #home-fs .first-scene img {
-  height: 50px;
-  width: 50px;
+  height: 400px;
+  width: 100%;
+}
+
+#home-concept {
+  padding-top: 50px;
+}
+
+#home-gourdes {
+  padding-top: 50px;
+}
+
+#home-tarifs {
+  padding-top: 50px;
+}
+
+#home-about {
+  padding-top: 50px;
+}
+
+#home-contact {
+  padding-top: 50px;
 }
