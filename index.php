@@ -54,13 +54,13 @@
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
+                        <img src="images/metal-paysage3-coupee.jpg" class="d-block w-100" alt="illustration-gourde">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="images/metal-paysage2-coupee.jpg." class="d-block w-100" alt="illustration-gourde">
+                    </div>
+                    <div class="carousel-item">
                         <img src="images/verre-paysage2.jpg" class="d-block w-100" alt="illustration-gourde">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="images/metal-paysage2.jpg" class="d-block w-100" alt="illustration-gourde">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="images/metal-paysage3.jpg" class="d-block w-100" alt="illustration-gourde">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
