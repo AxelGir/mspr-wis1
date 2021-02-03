@@ -11160,3 +11160,40 @@ textarea.form-control-lg {
 #home-contact {
   padding-top: 50px;
 }
+
+#concept-top {
+  padding-top: 70px;
+}
+
+#concept-top .container h2, #concept-top .container .h2 {
+  color: #360890;
+  text-align: center;
+}
+
+#concept-top .container p {
+  text-align: center;
+}
+
+#concept-middle {
+  padding-top: 70px;
+}
+
+#concept-middle .images-wrapper {
+  display: flex;
+  -moz-column-count: 3;
+       column-count: 3;
+  -moz-column-gap: 20px;
+       column-gap: 20px;
+}
+
+#concept-middle .images-wrapper img {
+  padding-right: 100px;
+}
+
+#concept-bottom {
+  padding-top: 50px;
+}
+
+#concept-bottom .container p {
+  text-align: center;
+}

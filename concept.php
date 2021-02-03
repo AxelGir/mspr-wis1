@@ -18,9 +18,9 @@
         <section id="concept-middle">
             <div class="container">
                 <div class="images-wrapper">
-                    <img src="https://placehold.it/100" alt="illustration-plastique">
-                    <img src="https://placehold.it/100" alt="illustration-verre">
-                    <img src="https://placehold.it/100" alt="illustration-metal">
+                    <img src="https://placehold.it/300" alt="illustration-plastique">
+                    <img src="https://placehold.it/300" alt="illustration-verre">
+                    <img src="https://placehold.it/300" alt="illustration-metal">
                 </div>
             </div>
         </section>
