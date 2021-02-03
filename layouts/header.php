@@ -43,21 +43,21 @@
                                             src="https://picsum.photos/400?random=2"
                                             alt="Random Image 2"></span></a>
                             <h2>Gourde en plastique</h2>
-                            <a href="./details-plastique.php" class="read-more">en savoir plus</a>
+                            <a href="./details-plastique.php" class="read-more">En savoir plus...</a>
                         </div>
 
                         <div class="col"><a href="./details-verre.php" class="img-wrapper"><span class="img"><img
                                             src="https://picsum.photos/400?random=3"
                                             alt="Random Image 3"></span></a>
                             <h2>Gourde en verre</h2>
-                            <a href="./details-verre.php" class="read-more">en savoir plus</a>
+                            <a href="./details-verre.php" class="read-more">En savoir plus...</a>
                         </div>
 
                         <div class="col"><a href="./details-metal.php" class="img-wrapper"><span class="img"><img
                                             src="https://picsum.photos/400?random=4"
                                             alt="Random Image 4"></span></a>
                             <h2>Gourde en métal</h2>
-                            <a href="./details-metal.php" class="read-more">en savoir plus</a>
+                            <a href="./details-metal.php" class="read-more">En savoir plus...</a>
                         </div>
                     </div>
                 </div>
