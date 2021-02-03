@@ -11159,20 +11159,22 @@ textarea.form-control-lg {
 }
 
 #concept-top {
-  padding-top: 70px;
+  padding-top: 25px;
 }
 
 #concept-top .container h2, #concept-top .container .h2 {
+  padding: 25px 0;
   color: #360890;
   text-align: center;
 }
 
 #concept-top .container p {
+  padding: 25px 0;
   text-align: center;
 }
 
 #concept-middle {
-  padding-top: 70px;
+  padding: 25px 0;
 }
 
 #concept-middle .images-wrapper {
@@ -11183,7 +11185,7 @@ textarea.form-control-lg {
 }
 
 #concept-bottom {
-  padding-top: 50px;
+  padding: 25px 0;
 }
 
 #concept-bottom .container p {
@@ -11197,6 +11199,7 @@ textarea.form-control-lg {
 #home-concept {
   padding: 25px 0;
   background-color: #EDEDED;
+  text-align: center;
 }
 
 #home-concept .container {
