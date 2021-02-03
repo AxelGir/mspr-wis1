@@ -17,7 +17,7 @@
                     mollitia numquam odit possimus quae, rem saepe sunt tempora ullam! Accusantium, dignissimos
                     ducimus
                     ipsam molestias odit quae veniam? A asperiores consequuntur inventore maiores provident [...]</p>
-                <a class="btn" href="/concept.php">En savoir plus...</a>
+                <a class="btn" href="./concept.php">En savoir plus...</a>
             </div>
         </section>
 
@@ -29,19 +29,19 @@
                         <img src="images/plastique-portrait1.jpg"
                              alt="gourde-en-plastique">
                         <h3>Nos gourdes en plastique</h3>
-                        <a class="btn" href="/details-plastique.php">En savoir plus</a>
+                        <a class="btn" href="./details-plastique.php">En savoir plus</a>
                     </div>
                     <div class="card">
                         <img src="images/verre-portrait1.jpg"
                              alt="gourde-en-verre">
                         <h3>Nos gourdes en verre</h3>
-                        <a class="btn" href="/details-verre.php">En savoir plus</a>
+                        <a class="btn" href="./details-verre.php">En savoir plus</a>
                     </div>
                     <div class="card">
                         <img src="images/metal-portrait3.jpg"
                              alt="gourde-en-metal">
                         <h3>Nos gourdes en métal</h3>
-                        <a class="btn" href="/details-metal.php">En savoir plus</a>
+                        <a class="btn" href="./details-metal.php">En savoir plus</a>
                     </div>
                 </div>
             </div>
@@ -50,31 +50,33 @@
         <section id="home-tarifs">
             <div class="container">
                 <h2 class="home-title">- Nos différents tarifs -</h2>
-                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="images/Maestria.png" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="images/maestria-2.png" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="images/neww%20%20mae.png" class="d-block w-100" alt="...">
-                        </div>
+            </div>
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="images/plastique-paysage2.jpg" class="d-block w-100" alt="...">
                     </div>
-                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </a>
+                    <div class="carousel-item">
+                        <img src="images/metal-paysage2.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="images/metal-paysage3.jpg" class="d-block w-100" alt="...">
+                    </div>
                 </div>
+                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Précédent</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Suivant</span>
+                </a>
             </div>
 
-            <div>
-                <a class="btn" href="/tarifs.php">Voir nos tarifs -></a>
+            <div class="container">
+                <div class="btn-wrapper">
+                    <a class="btn" href="./tarifs.php">Voir nos tarifs -></a>
+                </div>
             </div>
         </section>
 
