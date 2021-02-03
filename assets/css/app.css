@@ -10761,6 +10761,12 @@ textarea.form-control-lg {
   padding: 10px 0;
 }
 
+.home-title {
+  padding-bottom: 30px;
+  color: #360890;
+  text-align: center;
+}
+
 .header {
   background: #360890;
   position: relative;
@@ -11188,12 +11194,6 @@ textarea.form-control-lg {
   padding: 0 50px;
 }
 
-#home-concept .container h2, #home-concept .container .h2 {
-  padding: 20px 0;
-  color: #360890;
-  text-align: center;
-}
-
 #home-concept .container p {
   padding: 0 70px 0 70px;
   text-align: center;
@@ -11208,12 +11208,6 @@ textarea.form-control-lg {
   padding: 0 50px;
 }
 
-#home-gourdes .container h2, #home-gourdes .container .h2 {
-  padding-bottom: 30px;
-  color: #360890;
-  text-align: center;
-}
-
 #home-gourdes .container .cards-wrapper {
   display: flex;
   justify-content: space-between;
@@ -11222,17 +11216,12 @@ textarea.form-control-lg {
 }
 
 #home-tarifs {
-  padding-top: 50px;
-}
-
-#home-tarifs .container h2, #home-tarifs .container .h2 {
-  padding: 20px 0;
-  color: #360890;
-  text-align: center;
+  padding: 25px 0;
+  background-color: #EDEDED;
 }
 
 #home-about {
-  padding-top: 50px;
+  padding: 25px 0;
 }
 
 #home-contact {

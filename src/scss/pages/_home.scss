@@ -10,12 +10,6 @@
   padding: 0 50px;
 }
 
-#home-concept .container h2 {
-  padding: 20px 0;
-  color: $primary;
-  text-align: center;
-}
-
 #home-concept .container p {
   padding: 0 70px 0 70px;
   text-align: center;
@@ -30,12 +24,6 @@
   padding: 0 50px;
 }
 
-#home-gourdes .container h2 {
-  padding-bottom: 30px;
-  color: $primary;
-  text-align: center;
-}
-
 #home-gourdes .container .cards-wrapper {
   display: flex;
   justify-content: space-between;
@@ -43,38 +31,24 @@
 }
 
 #home-tarifs {
-  padding-top: 50px;
-}
-
-#home-tarifs .container h2 {
-    padding: 20px 0;
-    color: $primary;
-    text-align: center;
-}
-
-#home-tarifs .container .cards-wrapper {
-
-}
-
-#home-tarifs .container .card {
-
+  padding: 25px 0;
+  background-color: #EDEDED;
 }
 
 #home-about {
-  padding-top: 50px;
+  padding: 25px 0;
 }
+
 #home-about .container {
 
 }
-#home-about .container h2 {
 
-}
-#home-about .container h2 p {
 
-}
 #home-about .container p {
 
 }
+
+
 #home-contact {
   padding-top: 50px;
 }
@@ -84,11 +58,3 @@
 #home-contact .container p {
 
 }
-#home-contact .container p h2 {
-
-}
-#home-contact .container h2 {
-
-}
-
-

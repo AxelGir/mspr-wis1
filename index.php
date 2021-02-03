@@ -49,7 +49,7 @@
 
         <section id="home-tarifs">
             <div class="container">
-                <h2>- Nos différents tarifs -</h2>
+                <h2 class="home-title">- Nos différents tarifs -</h2>
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
@@ -92,7 +92,7 @@
 
         <section id="home-contact">
             <div class="container">
-                <h2>- Notre contact -</h2>
+                <h2 class="home-title">- Notre contact -</h2>
                 <span>Une question sur nos produits ou tout simplement une demande particulière ?</span>
                 <a class="jsp-encore" href="./contact.php">Nous contacter !</a>
             </div>
