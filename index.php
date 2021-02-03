@@ -95,10 +95,13 @@
         <section id="home-contact">
             <div class="container">
                 <h2 class="home-title">- Notre contact -</h2>
-                <span>Une question sur nos produits ou tout simplement une demande particulière ?</span>
-                <a class="jsp-encore" href="./contact.php">Nous contacter !</a>
+                <span class="question">Une question sur nos produits ou tout simplement une demande particulière ?</span>
+                <div class="btn-wrapper">
+                    <a class="btn" href="./contact.php">Nous contacter !</a>
+                </div>
             </div>
         </section>
+
     </main>
 
 <?php require_once 'layouts/footer.php' ?>

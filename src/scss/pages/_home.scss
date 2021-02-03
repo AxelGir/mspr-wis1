@@ -54,21 +54,25 @@
 #home-about .container {
   display: block;
   padding: 0 50px;
-text-align: center;
-}
-
-
-#home-about .container p {
-
+  text-align: center;
 }
 
 
 #home-contact {
-  padding-top: 50px;
+  padding: 25px 0;
+  background: linear-gradient(#EDEDED, $primary);
 }
+
 #home-contact .container {
-
+  display: block;
+  text-align: center;
 }
-#home-contact .container p {
 
+#home-contact .question {
+  padding: 25px 0;
+  font-size: 24px;
+}
+
+#home-contact .btn-wrapper {
+  padding-top: 30px;
 }
