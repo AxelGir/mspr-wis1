@@ -49,6 +49,7 @@
 
         <section id="home-tarifs">
             <div class="container">
+                <h2>- Nos différents tarifs -</h2>
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
@@ -93,7 +94,11 @@
             <div class="container">
                 <h2>- Notre contact -</h2>
                 <span>Une question sur nos produits ou tout simplement une demande particulière ?</span>
+<<<<<<< Updated upstream
                 <a class="jsp-encore" href="./contact.php">Nous contacter !</a>
+=======
+                <a class="jsp-encore" href="/contact.php">Nous contacter !</a>
+>>>>>>> Stashed changes
             </div>
         </section>
     </main>

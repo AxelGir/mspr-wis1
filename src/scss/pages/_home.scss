@@ -21,7 +21,6 @@
   text-align: center;
 }
 
-
 #home-gourdes {
   padding: 25px 0;
   background-color: #EDEDED;
@@ -52,7 +51,9 @@
 }
 
 #home-tarifs .container h2 {
-
+    padding: 20px 0;
+    color: $primary;
+    text-align: center;
 }
 
 #home-tarifs .container .cards-wrapper {
