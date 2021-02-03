@@ -17,9 +17,13 @@
   text-align: center;
 }
 
+/* à poser à Ronan : Comment cibler les colones indépendemment ? */
+
 #presentation-middle .cards-wrapper {
   border: solid 2px lime;
-  padding: 25px 50px;
-  justify-content: space-between;
   column-count: 2;
+}
+
+#presentation-middle .card {
+  border: solid 2px blue;
 }

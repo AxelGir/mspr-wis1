@@ -10786,6 +10786,10 @@ textarea.form-control-lg {
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.6);
 }
 
+#presentation-middle .card:hover {
+  cursor: inherit;
+}
+
 .home-title {
   padding-bottom: 30px;
   color: #360890;
@@ -11308,10 +11312,13 @@ textarea.form-control-lg {
   text-align: center;
 }
 
+/* à poser à Ronan : Comment cibler les colones indépendemment ? */
 #presentation-middle .cards-wrapper {
   border: solid 2px lime;
-  padding: 25px 50px;
-  justify-content: space-between;
   -moz-column-count: 2;
        column-count: 2;
+}
+
+#presentation-middle .card {
+  border: solid 2px blue;
 }
