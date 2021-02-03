@@ -8,6 +8,7 @@
                 <img src="images/gourde-stylee.jpg" alt="gourde de fond">
             </div>
         </section>
+
         <section id="home-concept">
             <div class="container">
                 <h2 class="home-title">- Notre concept -</h2>
@@ -19,6 +20,7 @@
                 <a class="btn btn-know-more" href="#">En savoir plus...</a>
             </div>
         </section>
+
         <section id="home-gourdes">
             <div class="container">
                 <h2 class="home-title">- On vous présente nos gourdes -</h2>
@@ -44,48 +46,8 @@
                 </div>
             </div>
         </section>
+
         <section id="home-tarifs">
-            <div class="container">
-                <h2 class="home-title">- Nos différents tarifs -</h2>
-                <div class="cards-wrapper">
-                    <div class="card">
-                        <img src="https://placehold.it/1100x400"
-                             alt="gourde-en-plastique">
-                        <a class="btn-tarifs" href="#">Gourdes en plastique</a>
-                    </div>
-                    <div class="card">
-                        <img src="https://placehold.it/1100x400"
-                             alt="gourde-en-verre">
-                        <a class="btn-tarifs" href="#">Gourdes en verre</a>
-                    </div>
-                    <div class="card">
-                        <img src="https://placehold.it/1100x400"
-                             alt="gourde-en-metal">
-                        <a class="btn-tarifs" href="#">Gourdes en métal</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section id="home-about">
-            <div class="container">
-                <h2 class="home-title">- Des détails sur nous -</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur cum debitis delectus,
-                    dolores earum, explicabo facilis fuga fugiat illo impedit in laboriosam laborum laudantium minus
-                    mollitia numquam odit possimus quae, rem saepe sunt tempora ullam! Accusantium, dignissimos
-                    ducimus
-                    ipsam molestias odit quae veniam? A asperiores consequuntur inventore maiores provident!</p>
-                <a class="btn-know-more" href="#">En savoir plus...</a>
-            </div>
-        </section>
-        <section id="home-contact">
-            <div class="container">
-                <p>Une question sur nos produits ou tout simplement une demande particulière ?</p>
-                <a class="jsp-encore" href="#">
-                    <h2>- Nous contacter -</h2>
-                </a>
-            </div>
-        </section>
-        <section>
             <div class="container">
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
@@ -108,6 +70,31 @@
                         <span class="visually-hidden">Next</span>
                     </a>
                 </div>
+            </div>
+
+            <div>
+            <a class="btn-tarifs" href="#">Voir nos tarifs -></a>
+            </div>
+        </section>
+
+        <section id="home-about">
+            <div class="container">
+                <h2 class="home-title">- Des détails sur nous -</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur cum debitis delectus,
+                    dolores earum, explicabo facilis fuga fugiat illo impedit in laboriosam laborum laudantium minus
+                    mollitia numquam odit possimus quae, rem saepe sunt tempora ullam! Accusantium, dignissimos
+                    ducimus
+                    ipsam molestias odit quae veniam? A asperiores consequuntur inventore maiores provident!</p>
+                <a class="btn-know-more" href="#">En savoir plus...</a>
+            </div>
+        </section>
+
+        <section id="home-contact">
+            <div class="container">
+                <span>Une question sur nos produits ou tout simplement une demande particulière ?</span>
+                <a class="jsp-encore" href="#">
+                    <h2>- Nous contacter -</h2>
+                </a>
             </div>
         </section>
     </main>
