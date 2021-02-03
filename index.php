@@ -16,7 +16,7 @@
                     dolores earum, explicabo facilis fuga fugiat illo impedit in laboriosam laborum laudantium minus
                     mollitia numquam odit possimus quae, rem saepe sunt tempora ullam! Accusantium, dignissimos
                     ducimus
-                    ipsam molestias odit quae veniam? A asperiores consequuntur inventore maiores provident!</p>
+                    ipsam molestias odit quae veniam? A asperiores consequuntur inventore maiores provident [...]</p>
                 <a class="btn btn-know-more" href="#">En savoir plus...</a>
             </div>
         </section>
@@ -73,7 +73,7 @@
             </div>
 
             <div>
-            <a class="btn-tarifs" href="#">Voir nos tarifs -></a>
+                <a class="btn-tarifs" href="#">Voir nos tarifs -></a>
             </div>
         </section>
 

@@ -11092,6 +11092,22 @@ textarea.form-control-lg {
 
 #home-concept {
   padding-top: 50px;
+  background-color: #EDEDED;
+}
+
+#home-concept .container {
+  display: block;
+}
+
+#home-concept .container h2, #home-concept .container .h2 {
+  padding: 20px 0;
+  color: #0d6efd;
+  text-align: center;
+}
+
+#home-concept .container p {
+  padding: 0 70px 0 70px;
+  text-align: center;
 }
 
 #home-gourdes {
