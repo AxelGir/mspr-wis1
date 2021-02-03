@@ -1,0 +1,24 @@
+#presentation-top .container {
+  padding: 25px 0;
+  text-align: center;
+}
+
+#presentation-top .container img {
+  max-height: 300px;
+}
+
+#presentation-middle {
+  border: solid 2px red;
+  text-align: center;
+}
+
+/* à poser à Ronan : Comment cibler les colones indépendemment ? */
+
+#presentation-middle .cards-wrapper {
+  border: solid 2px lime;
+  column-count: 2;
+}
+
+#presentation-middle .card {
+  border: solid 2px blue;
+}
