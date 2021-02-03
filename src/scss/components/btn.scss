@@ -3,14 +3,19 @@
   background-color: $primary;
   border-radius: 10px;
   color: white;
+
 }
 
-.btn {
-
+.btn:hover {
+  color: #EDEDED;
+  background-color: $primary;
+  transition: .5s ease background;
+  cursor: pointer;
+  box-shadow: -6px 4px 4px -5px rgba(0, 0, 0, 0.2);
+  -webkit-transform: scale(1.05);
 }
 
 .btn-know-more {
-  border: solid 2px red;
-  text-decoration: none;
-  color: #360890;
+  background-color: #EDEDED;
+  color: $primary;
 }
