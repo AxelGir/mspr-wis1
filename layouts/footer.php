@@ -18,7 +18,7 @@
 
     <div class="foot-mid">
         <div class="container">
-<span class="copyrights">Copyrights - Dewi et Axel</span>
+            <span class="copyrights">Copyrights - Dewi et Axel</span>
         </div>
     </div>
 
