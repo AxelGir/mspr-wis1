@@ -1,0 +1,22 @@
+.card {
+  width: 100px;
+  height: 500px;
+  background-color: $primary;
+  color: white;
+  padding: 5px;
+  flex-grow: 1;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.6);
+}
+
+.card img {
+  display: block;
+  width: 75%;
+  max-height: 300px;
+  margin: auto;
+}
+
+.card h3 {
+  display: block;
+  text-align: center;
+  padding: 10px 0;
+}

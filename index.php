@@ -26,22 +26,22 @@
                 <h2 class="home-title">- On vous présente nos gourdes -</h2>
                 <div class="cards-wrapper">
                     <div class="card">
-                        <img src="https://placehold.it/1100x400"
+                        <img src="images/plastique-portrait1.jpg"
                              alt="gourde-en-plastique">
                         <h3>Nos gourdes en plastique</h3>
-                        <a class="btn-know-more" href="#">En savoir plus</a>
+                        <a class="btn btn-know-more" href="#">En savoir plus</a>
                     </div>
                     <div class="card">
-                        <img src="https://placehold.it/1100x400"
+                        <img src="images/verre-portrait1.jpg"
                              alt="gourde-en-verre">
                         <h3>Nos gourdes en verre</h3>
-                        <a class="know-more" href="#">En savoir plus</a>
+                        <a class="btn btn-know-more" href="#">En savoir plus</a>
                     </div>
                     <div class="card">
-                        <img src="https://placehold.it/1100x400"
+                        <img src="images/metal-portrait3.jpg"
                              alt="gourde-en-metal">
                         <h3>Nos gourdes en métal</h3>
-                        <a class="btn-know-more" href="#">En savoir plus</a>
+                        <a class="btn btn-know-more" href="#">En savoir plus</a>
                     </div>
                 </div>
             </div>

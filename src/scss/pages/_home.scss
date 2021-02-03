@@ -2,11 +2,12 @@
   width: 100%;
 }
 #home-concept {
-  padding-top: 50px;
+  padding: 25px 0;
   background-color: #EDEDED;
 }
 #home-concept .container {
   display: block;
+  padding: 0 50px;
 }
 
 #home-concept .container h2 {
@@ -19,39 +20,53 @@
   padding: 0 70px 0 70px;
   text-align: center;
 }
+
+
 #home-gourdes {
-  padding-top: 50px;
+  padding: 25px 0;
+  background-color: #EDEDED;
 }
+
 #home-gourdes .container {
-
+  padding: 0 50px;
 }
+
 #home-gourdes .container h2 {
-
+  padding-bottom: 30px;
+  color: $primary;
+  text-align: center;
 }
+
 #home-gourdes .container .cards-wrapper {
-
+  display: flex;
+  justify-content: space-between;
+  column-gap: 40px;
 }
-#home-gourdes .container .card {
 
-}
 #home-gourdes .container h3 {
 
 }
+
 #home-tarifs {
   padding-top: 50px;
 }
+
 #home-tarifs .container {
 
 }
+
 #home-tarifs .container h2 {
 
 }
+
 #home-tarifs .container .cards-wrapper {
 
 }
+
 #home-tarifs .container .card {
 
 }
+
 #home-about {
   padding-top: 50px;
 }
