@@ -11031,26 +11031,34 @@ textarea.form-control-lg {
   }
 }
 #footer {
-  padding: 20px 0 20px 0;
+  padding: 50px 0 50px 0;
   border: solid 2px blue;
   background-color: #360890;
   color: #fff;
   display: flex;
   justify-content: center;
-  -moz-column-count: 2;
-       column-count: 2;
-  -moz-column-gap: 30%;
-       column-gap: 30%;
+  -moz-column-count: 3;
+       column-count: 3;
+  -moz-column-gap: 5%;
+       column-gap: 5%;
+  max-width: 100%;
 }
 
-#foot-left {
+.foot-left {
   border: solid 2px lime;
   display: flex;
   justify-content: center;
+  align-items: center;
   min-width: 400px;
+  text-decoration: none;
 }
 
-#foot-left img {
+.foot-left a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.foot-left img {
   width: 100%;
   max-width: 80px;
 }
@@ -11068,10 +11076,14 @@ textarea.form-control-lg {
   font-size: 24px;
 }
 
-#foot-right {
+.foot-right {
   border: solid 2px yellow;
   display: flex;
   justify-content: center;
+}
+
+.foot-mid {
+  border: solid 2px purple;
 }
 
 #home-fs .first-scene img {

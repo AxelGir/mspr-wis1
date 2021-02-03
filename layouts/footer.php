@@ -29,7 +29,6 @@
             <a class="sous-titre" href="#">Mentions légales</a>
         </div>
     </div>
-
 </footer>
 
 <script src="assets/js/app.js"></script>
