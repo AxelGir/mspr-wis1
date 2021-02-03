@@ -49,6 +49,7 @@
 
         <section id="home-tarifs">
             <div class="container">
+                <h2>- Nos différents tarifs -</h2>
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">

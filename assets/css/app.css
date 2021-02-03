@@ -11231,6 +11231,12 @@ textarea.form-control-lg {
   padding-top: 50px;
 }
 
+#home-tarifs .container h2, #home-tarifs .container .h2 {
+  padding: 20px 0;
+  color: #360890;
+  text-align: center;
+}
+
 #home-about {
   padding-top: 50px;
 }
