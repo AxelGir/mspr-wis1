@@ -31,16 +31,7 @@
   display: flex;
   justify-content: center;
 }
-.title-conf {
-  text-decoration: none;
-  color: inherit;
-  font-size: 20px;
-}
-.title-mentions {
-  text-decoration: none;
-  color: inherit;
-  font-size: 20px;
-}
+
 .foot-right {
   display: flex;
   justify-content: center;
@@ -59,4 +50,15 @@
 .foot-mid span {
   font-size: 20px;
   padding: 0 60px 0 0;
+}
+
+.title-conf {
+  text-decoration: none;
+  color: inherit;
+  font-size: 20px;
+}
+.title-mentions {
+  text-decoration: none;
+  color: inherit;
+  font-size: 20px;
 }

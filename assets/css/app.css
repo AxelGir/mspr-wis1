@@ -11121,18 +11121,6 @@ textarea.form-control-lg {
   justify-content: center;
 }
 
-.title-conf {
-  text-decoration: none;
-  color: inherit;
-  font-size: 20px;
-}
-
-.title-mentions {
-  text-decoration: none;
-  color: inherit;
-  font-size: 20px;
-}
-
 .foot-right {
   display: flex;
   justify-content: center;
@@ -11158,6 +11146,18 @@ textarea.form-control-lg {
   padding: 0 60px 0 0;
 }
 
+.title-conf {
+  text-decoration: none;
+  color: inherit;
+  font-size: 20px;
+}
+
+.title-mentions {
+  text-decoration: none;
+  color: inherit;
+  font-size: 20px;
+}
+
 #concept-top {
   padding-top: 70px;
 }
@@ -11176,15 +11176,10 @@ textarea.form-control-lg {
 }
 
 #concept-middle .images-wrapper {
+  justify-content: space-between;
   display: flex;
   -moz-column-count: 3;
        column-count: 3;
-  -moz-column-gap: 20px;
-       column-gap: 20px;
-}
-
-#concept-middle .images-wrapper img {
-  padding-right: 100px;
 }
 
 #concept-bottom {

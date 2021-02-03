@@ -17,13 +17,11 @@ text-align: center;
 #concept-middle .container {
 }
 #concept-middle .images-wrapper {
+  justify-content: space-between;
   display: flex;
   column-count: 3;
-  column-gap: 20px;
 }
-#concept-middle .images-wrapper img {
-  padding-right: 100px;
-}
+
 #concept-bottom {
   padding-top: 50px;
 }
