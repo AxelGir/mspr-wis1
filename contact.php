@@ -24,8 +24,9 @@ $email= getValueFromField('email');
         <div class="form-container">
             <form method="post" action="">
                 <div class="form-name">
-            <label for="last_name">Nom</label>
-            <input type="text" id="last_name" placeholder="Votre nom" name="last_name" minlength="2" maxlength="255" required>
+            <label class="label-name" for="last_name">Nom</label>
+            <input class="input-name" type="text" id="last_name"
+                   name="last_name" minlength="2" maxlength="255" required>
                 </div>
                 <div class="form-email">
                     <label for="email">Email</label>
