@@ -11,7 +11,85 @@
 
 }
 #contact-form .form-container {
-
+  width: 500px;
+  box-shadow: 0 0 20px 0 #999999;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: relative;
+  margin-top: 220px;
+}
+/*#contact-form .form-name {
+  width: 500px;
+  box-shadow: 0 0 20px 0 #999999;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  margin-top: 20px;
+}
+#contact-form .form-email {
+  width: 500px;
+  box-shadow: 0 0 20px 0 #999999;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  margin-top: 120px;
+}*/
+#contact-form .form-container form {
+  margin: 35px;
+}
+#contact-form .input-name {
+  width: 400px;
+  height: 40px;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #777;
+  border-radius: 14px;
+  outline: none;
+  box-shadow: 0 0 3px 0 $primary;
+}
+#contact-form .input-name:hover {
+  box-shadow: 0 0 6px 2px $primary;
+}
+#contact-form .input-email {
+  width: 400px;
+  height: 40px;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #777;
+  border-radius: 14px;
+  outline: none;
+  box-shadow: 0 0 3px 0 $primary;
+}
+#contact-form .input-email:hover {
+  box-shadow: 0 0 6px 2px $primary;
+}
+#contact-form .input-phone {
+  width: 400px;
+  height: 40px;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #777;
+  border-radius: 14px;
+  outline: none;
+  box-shadow: 0 0 3px 0 $primary;
+}
+#contact-form .input-phone:hover {
+  box-shadow: 0 0 6px 2px $primary;
+}
+#contact-form .form-textarea {
+  height: 150px;
+  padding-top: 10px;
+  padding-right: 100px;
+  border-radius: 14px;
+  margin-top: 4px;
+  outline: none;
+}
+#contact-form .btn-know-more {
+  padding-bottom: 10px;
+  margin-top: 20px;
 }
 /*#contact-form .form-name {
   background-color: #EDEDED;
@@ -45,6 +123,7 @@
   background: transparent;
 } */
 //TEST D'UN FORM
+/*
 .transition, form button, form .question label, form .question input[type="text"] {
   -moz-transition: all 0.25s cubic-bezier(0.53, 0.01, 0.35, 1.5);
   -o-transition: all 0.25s cubic-bezier(0.53, 0.01, 0.35, 1.5);
@@ -159,6 +238,7 @@
   -webkit-transform: translate(5px, -35px) scale(0.6);
   transform: translate(5px, -35px) scale(0.6);
 }
+ */
   // FIN DU TEST
   #contact-form .form-email {
 

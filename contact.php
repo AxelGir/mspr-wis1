@@ -24,24 +24,28 @@ $email= getValueFromField('email');
         <div class="form-container">
             <form method="post" action="">
                 <div class="form-name">
-            <label class="label-name" for="last_name">Nom</label>
+            <label class="label-name" for="last_name"></label>
             <input class="input-name" type="text" id="last_name"
-                   name="last_name" minlength="2" maxlength="255" required>
+                   name="last_name" minlength="2" placeholder="Votre nom" maxlength="255" required>
                 </div>
                 <div class="form-email">
-                    <label for="email">Email</label>
-                    <input type="text" id="email" placeholder="Votre email" name="email" minlength="2" maxlength="255" required>
+                    <label for="email"></label>
+                    <input class="input-email" type="text" id="email" placeholder="Votre email" name="email"
+                           minlength="2" maxlength="255" required>
                 </div>
                 <div class="form-phone">
-                    <label for="phone">Téléphone</label>
-                    <input type="text" id="phone" name="phone" placeholder="Votre numéro de téléphone" minlength="10" maxlength="30" required>
+                    <label for="phone"></label>
+                    <input class="input-phone" type="text" id="phone" name="phone" placeholder="Votre numéro de téléphone"
+                           minlength="10" maxlength="30" required>
                 </div>
                 <div class="form-textarea">
-                    <label for="exampleFormControlTextarea1">Votre message</label>
-                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                    <label for="form-textarea"></label>
+                    <textarea class="form-textarea" placeholder="Votre message" id="form-textarea" rows="3"></textarea>
                 </div>
                 <button class="btn btn-know-more" type="submit">Envoyer</button>
             </form>
         </div>
     </section>
 </main>
+
+<?php require_once 'layouts/footer.php' ?>
