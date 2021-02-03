@@ -17,7 +17,7 @@
                     mollitia numquam odit possimus quae, rem saepe sunt tempora ullam! Accusantium, dignissimos
                     ducimus
                     ipsam molestias odit quae veniam? A asperiores consequuntur inventore maiores provident [...]</p>
-                <a class="btn btn-know-more" href="/concept.php">En savoir plus...</a>
+                <a class="btn" href="/concept.php">En savoir plus...</a>
             </div>
         </section>
 
@@ -29,19 +29,19 @@
                         <img src="images/plastique-portrait1.jpg"
                              alt="gourde-en-plastique">
                         <h3>Nos gourdes en plastique</h3>
-                        <a class="btn btn-know-more" href="/details-plastique.php">En savoir plus</a>
+                        <a class="btn" href="/details-plastique.php">En savoir plus</a>
                     </div>
                     <div class="card">
                         <img src="images/verre-portrait1.jpg"
                              alt="gourde-en-verre">
                         <h3>Nos gourdes en verre</h3>
-                        <a class="btn btn-know-more" href="/details-verre.php">En savoir plus</a>
+                        <a class="btn" href="/details-verre.php">En savoir plus</a>
                     </div>
                     <div class="card">
                         <img src="images/metal-portrait3.jpg"
                              alt="gourde-en-metal">
                         <h3>Nos gourdes en métal</h3>
-                        <a class="btn btn-know-more" href="/details-metal.php">En savoir plus</a>
+                        <a class="btn" href="/details-metal.php">En savoir plus</a>
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@
             </div>
 
             <div>
-                <a class="btn-tarifs" href="/tarifs.php">Voir nos tarifs -></a>
+                <a class="btn" href="/tarifs.php">Voir nos tarifs -></a>
             </div>
         </section>
 

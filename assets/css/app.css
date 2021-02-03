@@ -10726,9 +10726,8 @@ textarea.form-control-lg {
   }
 }
 .btn {
-  background-color: #360890;
-  border-radius: 10px;
-  color: white;
+  background-color: #EDEDED;
+  color: #360890;
 }
 
 .btn:hover {
@@ -10737,11 +10736,6 @@ textarea.form-control-lg {
   transition: 0.5s ease background;
   cursor: pointer;
   box-shadow: -6px 4px 4px -5px rgba(0, 0, 0, 0.2);
-}
-
-.btn-know-more {
-  background-color: #EDEDED;
-  color: #360890;
 }
 
 .card {
