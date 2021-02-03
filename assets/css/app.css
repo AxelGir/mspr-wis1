@@ -11037,8 +11037,7 @@ textarea.form-control-lg {
   }
 }
 #footer {
-  padding: 50px 0 50px 0;
-  border: solid 2px blue;
+  padding: 20px 0 20px 0;
   background-color: #360890;
   color: #fff;
   display: flex;
@@ -11047,16 +11046,18 @@ textarea.form-control-lg {
        column-count: 3;
   -moz-column-gap: 5%;
        column-gap: 5%;
-  max-width: 100%;
 }
 
 .foot-left {
-  border: solid 2px lime;
   display: flex;
   justify-content: center;
   align-items: center;
   min-width: 400px;
   text-decoration: none;
+}
+
+.foot-left .content {
+  padding-left: 80px;
 }
 
 .foot-left a {
@@ -11075,21 +11076,41 @@ textarea.form-control-lg {
   justify-content: center;
 }
 
-.sous-titre {
-  border: solid 2px #ff0000;
+.title-conf {
   text-decoration: none;
   color: inherit;
-  font-size: 24px;
+  font-size: 20px;
+}
+
+.title-mentions {
+  text-decoration: none;
+  color: inherit;
+  font-size: 20px;
 }
 
 .foot-right {
-  border: solid 2px yellow;
   display: flex;
   justify-content: center;
 }
 
+.foot-right .container {
+  padding: 0 0 0 0;
+  margin: auto;
+  display: flex;
+  -moz-column-count: 2;
+       column-count: 2;
+  -moz-column-gap: 20px;
+       column-gap: 20px;
+}
+
 .foot-mid {
-  border: solid 2px purple;
+  margin: 0 0 50px 0;
+  padding: 60px 0 0 0;
+}
+
+.foot-mid span {
+  font-size: 20px;
+  padding: 0 60px 0 0;
 }
 
 #home-fs .first-scene img {

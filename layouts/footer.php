@@ -18,15 +18,15 @@
 
     <div class="foot-mid">
         <div class="container">
-            <span class="copyrights">Copyrights - Dewi et Axel</span>
+            <span class="copyrights">Copyrights 2021 - Dewi et Axel</span>
         </div>
     </div>
 
 
     <div class="foot-right">
         <div class="container">
-            <a class="sous-titre" href="#">Politique de confidentialité</a>
-            <a class="sous-titre" href="#">Mentions légales</a>
+            <a class="title-conf" href="#">Politique de confidentialité</a>
+            <a class="title-mentions" href="#">Mentions légales</a>
         </div>
     </div>
 </footer>
