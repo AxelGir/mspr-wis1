@@ -11227,3 +11227,9 @@ textarea.form-control-lg {
 #home-contact {
   padding-top: 50px;
 }
+
+#contact-form .form-name {
+  box-shadow: 0 4px 30px rgba(50, 39, 75, 0.25);
+  border-radius: 10px;
+  padding-left: 24px;
+}
