@@ -6,7 +6,6 @@
         <section id="home-fs">
             <div class="first-scene">
                 <img src="images/gourde-stylee.jpg" alt="gourde de fond">
-                <h1 class="big-title">Avant-Gourde</h1>
             </div>
         </section>
 
