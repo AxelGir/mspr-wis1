@@ -1,0 +1,35 @@
+#concept-top {
+  padding-top: 70px;
+}
+#concept-top .container {
+
+}
+#concept-top .container h2 {
+color: $primary;
+  text-align: center;
+}
+#concept-top .container p {
+text-align: center;
+}
+#concept-middle {
+  padding-top: 70px;
+}
+#concept-middle .container {
+}
+#concept-middle .images-wrapper {
+  display: flex;
+  column-count: 3;
+  column-gap: 20px;
+}
+#concept-middle .images-wrapper img {
+  padding-right: 100px;
+}
+#concept-bottom {
+  padding-top: 50px;
+}
+#concept-bottom .container {
+
+}
+#concept-bottom .container p {
+text-align: center;
+}
