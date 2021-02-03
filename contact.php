@@ -35,7 +35,7 @@ $email= getValueFromField('email');
                     <label for="phone">Téléphone</label>
                     <input type="text" id="phone" name="phone" placeholder="Votre numéro de téléphone" minlength="10" maxlength="30" required>
                 </div>
-                <div class="form-textarea"> 
+                <div class="form-textarea">
                     <label for="exampleFormControlTextarea1">Votre message</label>
                     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                 </div>

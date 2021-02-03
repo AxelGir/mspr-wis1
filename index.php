@@ -93,7 +93,7 @@
             <div class="container">
                 <h2>- Notre contact -</h2>
                 <span>Une question sur nos produits ou tout simplement une demande particulière ?</span>
-                <a class="jsp-encore" href="#">Nous contacter !</a>
+                <a class="jsp-encore" href="./contact.php">Nous contacter !</a>
             </div>
         </section>
     </main>

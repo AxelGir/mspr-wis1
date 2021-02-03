@@ -69,7 +69,7 @@
                 <a class="menu-item" href="#">A propos</a>
             </li>
             <li>
-                <a class="menu-item" href="#">Contact</a>
+                <a class="menu-item" href="./contact.php">Contact</a>
             </li>
         </ul>
     </nav>
