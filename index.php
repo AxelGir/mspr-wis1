@@ -85,7 +85,7 @@
                     mollitia numquam odit possimus quae, rem saepe sunt tempora ullam! Accusantium, dignissimos
                     ducimus
                     ipsam molestias odit quae veniam? A asperiores consequuntur inventore maiores provident!</p>
-                <a class="btn-know-more" href="#">En savoir plus...</a>
+                <a class="btn btn-know-more" href="#">En savoir plus...</a>
             </div>
         </section>
 
