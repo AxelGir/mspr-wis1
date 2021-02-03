@@ -1,11 +1,20 @@
 .card {
+  padding: 0 10px 20px 10px;
   width: 100px;
   height: 500px;
   background-color: white;
   color: $primary;
-  padding: 5px;
   flex-grow: 1;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.6);
+}
+
+.card:hover {
+  background-color: $primary;
+  color: #EDEDED;
+  transition: .8s ease background;
+  cursor: pointer;
+  box-shadow: -6px 4px 4px -5px rgba(0, 0, 0, 0.5);
+
 }
 
 .card img {

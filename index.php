@@ -26,19 +26,19 @@
                 <h2 class="home-title">- On vous présente nos gourdes -</h2>
                 <div class="cards-wrapper">
                     <div class="card">
-                        <img src="images/plastique-portrait1.jpg"
+                        <img src="images/gourde-card-1.png"
                              alt="gourde-en-plastique">
                         <h3>Nos gourdes en plastique</h3>
                         <a class="btn" href="./details-plastique.php">En savoir plus</a>
                     </div>
                     <div class="card">
-                        <img src="images/verre-portrait1.jpg"
+                        <img src="images/gourde-card-3.png"
                              alt="gourde-en-verre">
                         <h3>Nos gourdes en verre</h3>
                         <a class="btn" href="./details-verre.php">En savoir plus</a>
                     </div>
                     <div class="card">
-                        <img src="images/metal-portrait3.jpg"
+                        <img src="images/gourde-card-2.png"
                              alt="gourde-en-metal">
                         <h3>Nos gourdes en métal</h3>
                         <a class="btn" href="./details-metal.php">En savoir plus</a>

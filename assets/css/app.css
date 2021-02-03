@@ -10746,13 +10746,21 @@ textarea.form-control-lg {
 }
 
 .card {
+  padding: 0 10px 20px 10px;
   width: 100px;
   height: 500px;
   background-color: white;
   color: #360890;
-  padding: 5px;
   flex-grow: 1;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.6);
+}
+
+.card:hover {
+  background-color: #360890;
+  color: #EDEDED;
+  transition: 0.8s ease background;
+  cursor: pointer;
+  box-shadow: -6px 4px 4px -5px rgba(0, 0, 0, 0.5);
 }
 
 .card img {
@@ -11250,7 +11258,7 @@ textarea.form-control-lg {
 
 #home-contact {
   padding: 25px 0;
-  background: linear-gradient(#EDEDED, #360890);
+  background-color: #EDEDED;
 }
 
 #home-contact .container {
