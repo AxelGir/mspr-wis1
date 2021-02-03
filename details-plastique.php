@@ -6,8 +6,8 @@
 
     <section id="presentation-top">
         <div class="container">
-            <h2>- La gourde en plastique -</h2>
-            <img src="https://placehold.it/400x400">
+            <h2 class="home-title">- La gourde en plastique -</h2>
+            <img src="images/plastique-square.jpg">
         </div>
     </section>
 

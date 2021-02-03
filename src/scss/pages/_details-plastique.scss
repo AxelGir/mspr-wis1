@@ -1,0 +1,25 @@
+#presentation-top {
+  padding: 25px 0;
+  background-color: #EDEDED;
+}
+
+#presentation-top .container {
+  padding: 25px 0;
+  text-align: center;
+}
+
+#presentation-top .container img {
+  max-height: 300px;
+}
+
+#presentation-middle {
+  border: solid 2px red;
+  text-align: center;
+}
+
+#presentation-middle .cards-wrapper {
+  border: solid 2px lime;
+  padding: 25px 50px;
+  justify-content: space-between;
+  column-count: 2;
+}
