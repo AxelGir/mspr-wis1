@@ -11156,6 +11156,11 @@ textarea.form-control-lg {
 .foot-left img {
   width: 100%;
   max-width: 80px;
+  transition: transform 0.2s;
+}
+
+.foot-left img:hover {
+  transform: scale(1.1);
 }
 
 .icons-wrapper {
@@ -11195,10 +11200,14 @@ textarea.form-control-lg {
   font-size: 20px;
 }
 
-.title-mentions {
+.foot-right a {
   text-decoration: none;
   color: inherit;
   font-size: 20px;
+}
+
+.foot-right a:hover {
+  color: inherit;
 }
 
 #concept-top {

@@ -4,13 +4,13 @@
         <div class="container">
             <div class="content">
                 <a href="https://facebook.com">
-                    <img src="images/001-facebook.png" alt="">
+                    <img src="images/001-facebook.png" alt="facebook">
                 </a>
                 <a href="https://twitter.com">
-                    <img src="images/002-twitter.png" alt="">
+                    <img src="images/002-twitter.png" alt="twitter">
                 </a>
                 <a href="https://instagram.com">
-                    <img src="images/003-instagram.png" alt="">
+                    <img src="images/003-instagram.png" alt="instagram">
                 </a>
             </div>
         </div>

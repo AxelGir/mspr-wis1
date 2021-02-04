@@ -58,9 +58,9 @@ if ($_POST) {
                     <button class="btn btn-know-more">Générer ma commande</button>
             </div>
         </div>
+        <?php endif; ?>
+        <?php endif; ?>
     </section>
 
 </main>
 <?php require_once 'layouts/footer.php' ?>
-<?php endif; ?>
-<?php endif; ?>
