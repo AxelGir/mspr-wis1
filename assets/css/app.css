@@ -10838,10 +10838,17 @@ textarea.form-control-lg {
 }
 .header.scrolled {
   background-color: transparent;
-  filter: blur(1px);
+  -webkit-backdrop-filter: blur(2px);
+          backdrop-filter: blur(2px);
 }
 .header.scrolled a {
   color: #ff652f;
+}
+.header.scrolled a:hover {
+  color: #130E0A;
+}
+.header.scrolled .menu-items li:hover {
+  background-color: inherit;
 }
 
 .header .container {
