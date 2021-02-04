@@ -66,7 +66,7 @@
                 <a class="menu-item" href="./tarifs.php">Tarifs</a>
             </li>
             <li>
-                <a class="menu-item" href="#">A propos</a>
+                <a class="menu-item" href="./about.php">A propos</a>
             </li>
             <li>
                 <a class="menu-item" href="./contact.php">Contact</a>

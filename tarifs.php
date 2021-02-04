@@ -1,8 +1,7 @@
 <?php $title = 'Avant-Gourde - Tarifs'; ?>
-
 <?php require_once 'layouts/header.php' ?>
 <main id="main">
-    <section id="tarifs-abdoul">
+    <section id="tarifs-top">
         <div class="container">
 
         </div>

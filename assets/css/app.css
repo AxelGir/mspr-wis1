@@ -11372,10 +11372,10 @@ textarea.form-control-lg {
 
 #contact-form .form-textarea {
   height: 150px;
-  padding-top: 10px;
-  padding-right: 100px;
+  padding-right: 239px;
+  padding-left: 4px;
   border-radius: 14px;
-  margin-top: 4px;
+  margin-bottom: 20px;
   outline: none;
 }
 
