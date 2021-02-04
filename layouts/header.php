@@ -40,22 +40,19 @@
                 <div class="mega-menu blog">
                     <div class="content">
                         <div class="col"><a href="./details-plastique.php" class="img-wrapper"><span class="img"><img
-                                            src="https://picsum.photos/400?random=2"
-                                            alt="Random Image 2"></span></a>
+                                            src="images/plastique-square.jpg"</span></a>
                             <h2>Gourde en plastique</h2>
                             <a href="./details-plastique.php" class="read-more">En savoir plus...</a>
                         </div>
 
                         <div class="col"><a href="./details-verre.php" class="img-wrapper"><span class="img"><img
-                                            src="https://picsum.photos/400?random=3"
-                                            alt="Random Image 3"></span></a>
+                                            src="images/verre-square.jpg"</span></a>
                             <h2>Gourde en verre</h2>
                             <a href="./details-verre.php" class="read-more">En savoir plus...</a>
                         </div>
 
                         <div class="col"><a href="./details-metal.php" class="img-wrapper"><span class="img"><img
-                                            src="https://picsum.photos/400?random=4"
-                                            alt="Random Image 4"></span></a>
+                                            src="images/metal-portrait3.jpg"</span></a>
                             <h2>Gourde en métal</h2>
                             <a href="./details-metal.php" class="read-more">En savoir plus...</a>
                         </div>
