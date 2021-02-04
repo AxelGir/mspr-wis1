@@ -3,9 +3,9 @@
 <?php require_once 'layouts/header.php' ?>
 
     <main id="main">
-        <section id="home-fs">
-            <div class="first-scene">
-                <img src="images/gourde-stylee.jpg" alt="gourde de fond">
+        <section id="home-fs" style="background-image: url(images/gourde-stylee.jpg)">
+            <div class="container">
+                <h1>Ce que tu veux</h1>
             </div>
         </section>
 

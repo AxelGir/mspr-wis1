@@ -11269,6 +11269,14 @@ textarea.form-control-lg {
   text-align: center;
 }
 
+#home-fs {
+  min-height: 750px;
+  height: 100%;
+  padding-bottom: 25px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 #home-fs .first-scene img {
   width: 100%;
 }
