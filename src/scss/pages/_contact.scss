@@ -1,23 +1,23 @@
-#contact-top {
-
-}
 #contact-top .container {
-
+  padding: 25px 0;
 }
-#contact-top .container h2 {
 
-}
+
 #contact-form {
 
 }
+
 #contact-form .form-container {
-  width: 500px;
+  padding: 5px;
+  max-width: 500px;
+  width: 100%;
   box-shadow: 0 0 20px 0 #999999;
   left: 50%;
   transform: translate(-50%, -50%);
   position: relative;
   margin-top: 220px;
 }
+
 /*#contact-form .form-name {
   width: 500px;
   box-shadow: 0 0 20px 0 #999999;
@@ -37,6 +37,7 @@
 #contact-form .form-container form {
   margin: 35px;
 }
+
 #contact-form .input-name {
   width: 400px;
   height: 40px;
@@ -48,9 +49,11 @@
   outline: none;
   box-shadow: 0 0 3px 0 $primary;
 }
+
 #contact-form .input-name:hover {
   box-shadow: 0 0 6px 2px $primary;
 }
+
 #contact-form .input-email {
   width: 400px;
   height: 40px;
@@ -62,9 +65,11 @@
   outline: none;
   box-shadow: 0 0 3px 0 $primary;
 }
+
 #contact-form .input-email:hover {
   box-shadow: 0 0 6px 2px $primary;
 }
+
 #contact-form .input-phone {
   width: 400px;
   height: 40px;
@@ -76,9 +81,11 @@
   outline: none;
   box-shadow: 0 0 3px 0 $primary;
 }
+
 #contact-form .input-phone:hover {
   box-shadow: 0 0 6px 2px $primary;
 }
+
 #contact-form .form-textarea {
   height: 150px;
   padding-top: 10px;
@@ -87,10 +94,12 @@
   margin-top: 4px;
   outline: none;
 }
+
 #contact-form .btn-know-more {
   padding-bottom: 10px;
   margin-top: 20px;
 }
+
 /*#contact-form .form-name {
   background-color: #EDEDED;
   box-shadow: 0 4px 30px rgb(50 39 75 / 25%);
@@ -239,13 +248,15 @@
   transform: translate(5px, -35px) scale(0.6);
 }
  */
-  // FIN DU TEST
-  #contact-form .form-email {
+// FIN DU TEST
+#contact-form .form-email {
 
-  }
-  #contact-form .form-phone {
+}
 
-  }
-  #contact-form .form-textarea {
+#contact-form .form-phone {
 
-  }
+}
+
+#contact-form .form-textarea {
+
+}

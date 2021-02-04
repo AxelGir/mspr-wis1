@@ -11287,8 +11287,14 @@ textarea.form-control-lg {
   padding-top: 30px;
 }
 
+#contact-top .container {
+  padding: 25px 0;
+}
+
 #contact-form .form-container {
-  width: 500px;
+  padding: 5px;
+  max-width: 500px;
+  width: 100%;
   box-shadow: 0 0 20px 0 #999999;
   left: 50%;
   transform: translate(-50%, -50%);

@@ -17,7 +17,7 @@ $email= getValueFromField('email');
 <main id="main">
     <section id="contact-top">
         <div class="container">
-            <h2>Contactez-nous</h2>
+            <h2 class="home-title">- Contactez-nous -</h2>
         </div>
     </section>
     <section id="contact-form">
