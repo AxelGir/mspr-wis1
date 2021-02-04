@@ -8,12 +8,12 @@
                 <div class="cards-wrapper">
 
                     <div class="card">
-                        <img src="images/gourde-card-3.png" alt="photo de Axel">
+                        <img src="images/myAvatar.png" alt="photo de Axel">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur atque fugiat mollitia
                             nam nostrum quaerat!</p>
                     </div>
                     <div class="card">
-                        <img src="images/gourde-card-3.png" alt="photo de Dewi">
+                        <img src="images/DewiAvatar.png" alt="photo de Dewi">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur atque fugiat mollitia
                             nam nostrum quaerat!</p>
                     </div>

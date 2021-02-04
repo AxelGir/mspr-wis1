@@ -10799,6 +10799,7 @@ textarea.form-control-lg {
   background-color: white;
   color: #360890;
   text-align: center;
+  align-content: space-around;
   flex-grow: 1;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.6);
 }
@@ -10812,6 +10813,10 @@ textarea.form-control-lg {
   width: 75%;
   max-height: 600px;
   margin: auto;
+}
+
+#about-top .card p {
+  padding: 10px 0;
 }
 
 .home-title {

@@ -53,6 +53,7 @@
   background-color: white;
   color: $primary;
   text-align: center;
+  align-content: space-around;
   flex-grow: 1;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.6);
 }
@@ -66,4 +67,8 @@
     width: 75%;
     max-height: 600px;
     margin: auto;
+}
+
+#about-top .card p {
+  padding: 10px 0;
 }
