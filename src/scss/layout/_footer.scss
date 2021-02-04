@@ -24,6 +24,10 @@
 .foot-left img {
   width: 100%;
   max-width: 80px;
+  transition: transform .2s;
+}
+.foot-left img:hover {
+  transform: scale(1.1);
 }
 
 .icons-wrapper {
@@ -52,13 +56,16 @@
   padding: 0 60px 0 0;
 }
 
-.title-conf {
+.title-conf  {
   text-decoration: none;
   color: inherit;
   font-size: 20px;
 }
-.title-mentions {
+.foot-right a {
   text-decoration: none;
   color: inherit;
   font-size: 20px;
+}
+.foot-right a:hover {
+  color: inherit;
 }
