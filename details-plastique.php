@@ -7,7 +7,6 @@
     <section id="presentation-top">
         <div class="container">
             <h2 class="home-title">- La gourde en plastique -</h2>
-            <img src="images/plastique-square.jpg">
         </div>
     </section>
 

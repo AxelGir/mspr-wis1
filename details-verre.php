@@ -7,7 +7,6 @@
     <section id="presentation-top">
         <div class="container">
             <h2 class="home-title">- La gourde en verre -</h2>
-            <img src="https://placehold.it/400x400">
         </div>
     </section>
 
@@ -15,11 +14,11 @@
         <div class="container">
             <div class="cards-wrapper">
                 <div class="card">
-                    <img src="https://placehold.it/400x400">
+                    <img src="images/verre-square.jpg">
                     <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos ex illum saepe sed. Fugit, mollitia?</span>
                 </div>
                 <div class="card">
-                    <img src="https://placehold.it/400x400">
+                    <img src="images/verre-portrait1.jpg">
                     <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos ex illum saepe sed. Fugit, mollitia?</span>
                 </div>
             </div>
@@ -37,7 +36,7 @@
                     voluptatibus?</p>
             </div>
 
-            <a class="see-price" href="#">Voir les tarifs</a>
+            <a class="btn btn-tarifs" href="#">Voir les tarifs</a>
 
         </div>
     </section>
