@@ -5,7 +5,7 @@
     <main id="main">
         <section id="home-fs" style="background-image: url(images/gourde-stylee.jpg)">
             <div class="container">
-                <h1>Ce que tu veux</h1>
+                <h1>AVANT-GOURDE</h1>
             </div>
         </section>
 

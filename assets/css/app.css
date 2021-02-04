@@ -11280,6 +11280,17 @@ textarea.form-control-lg {
   padding-bottom: 25px;
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
+}
+
+#home-fs .container {
+  padding-top: 20%;
+}
+
+#home-fs .container h1, #home-fs .container .h1 {
+  font-size: 172px;
+  color: white;
+  font-family: "Cambria Math";
 }
 
 #home-fs .first-scene img {
