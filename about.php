@@ -27,8 +27,9 @@
                 <span>
                     A présent que vous en savez plus sur nous,
                 </span>
-                <a class="btn btn-tarifs" href="./tarifs.php">consultez nos tarifs ?!</a>
+                <a class="btn-grad" href="tarifs.php">Consultez nos tarifs ?!</a>
             </div>
         </section>
+
     </main>
 <?php require_once 'layouts/footer.php'; ?>

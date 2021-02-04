@@ -10791,7 +10791,7 @@ textarea.form-control-lg {
 }
 
 #about-top .card {
-  padding: 0 10px 20px 10px;
+  padding: 20px 10px;
   max-width: 600px;
   max-height: 850px;
   width: 100%;
@@ -11517,11 +11517,9 @@ textarea.form-control-lg {
 
 #about-top .container {
   padding: 25px 0;
-  border: solid 2px lime;
 }
 
 #about-top .cards-wrapper {
-  border: solid 2px yellow;
   -moz-column-count: 2;
        column-count: 2;
   justify-items: center;
@@ -11532,7 +11530,6 @@ textarea.form-control-lg {
 }
 
 #about-top .cards-wrapper img {
-  border: solid 2px orange;
   margin: auto;
 }
 
@@ -11542,6 +11539,34 @@ textarea.form-control-lg {
 
 #about-bottom .container {
   padding: 25px 0;
-  border: solid 2px blue;
   text-align: center;
+}
+
+#about-bottom span {
+  font-size: 24px;
+}
+
+.btn-grad {
+  background-image: linear-gradient(to right, #360890 0%, #ff652f 51%, #360890 100%);
+}
+
+.btn-grad {
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+}
+
+.btn-grad:hover {
+  background-position: right center;
+  /* change the direction of the change here */
+  color: #fff;
+  text-transform: uppercase;
 }
