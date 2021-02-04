@@ -11522,10 +11522,10 @@ textarea.form-control-lg {
 
 #about-top {
   background-color: #EDEDED;
+  padding: 25px 0;
 }
 
 #about-top .container {
-  padding: 25px 0;
   text-align: center;
 }
 
@@ -11545,10 +11545,10 @@ textarea.form-control-lg {
 
 #about-bottom {
   background-color: #EDEDED;
+  padding: 25px 0;
 }
 
 #about-bottom .container {
-  padding: 25px 0;
   text-align: center;
 }
 
