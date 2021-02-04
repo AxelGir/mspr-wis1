@@ -1,4 +1,13 @@
 <?php
+$products = [
+          'plastique' =>  ['name' => 'plastique', 'price' => '11'],
+           'verre' => ['name' => 'verre', 'price' => '14'],
+           'metal' => ['name' => 'metal', 'price' => '12'],
+            '0.5' => ['name' => '0.5', 'price' => '1'],
+            '1' => ['name' => '1', 'price' => '3'],
+            '2' => ['name' => '2', 'price' => '5'],
+        ];
+$total= 0;
 if ($_POST) {
     function getValueFromField($field_name)
     {
@@ -8,13 +17,13 @@ if ($_POST) {
         endif;
         return $value;
     }
-
-    function getRealPrice($price = 0, $tva = 0.2)
+    function getRealPrice($price = 0, $size = 0)
     {
-        return $price + ($price * $tva);
+        return $plastique +  $size;
     }
 
     $price = getValueFromField('price');
+    $plastique = getValueFromField('plastique');
     $size = getValueFromField('size');
     $price_ttc = getRealPrice($price, $size);
 }
@@ -67,7 +76,12 @@ if ($_POST) {
                         <option value="2" <?php echo isset($size) && $size === '2' ? 'selected' : null ?>>2L</option>
 
                     </select>
-                    <button class="btn btn-know-more">Générer ma commande</button>
+                    <button class="btn btn-know-more">Voir le prix</button>
+                    <?php if (isset($price_ttc) && $price_ttc): ?>
+                        <div class="result">
+                            <output><?php echo $price_ttc; ?>€ TTC</output>
+                        </div>
+                    <?php endif; ?>
                 </div>
         </div>
         </div>
