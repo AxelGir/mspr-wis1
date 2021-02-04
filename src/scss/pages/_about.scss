@@ -1,1 +1,33 @@
+#about-top {
+  background-color: #EDEDED;
+}
 
+#about-top .container {
+  padding: 25px 0;
+  border: solid 2px lime;
+}
+
+#about-top .cards-wrapper {
+  border: solid 2px yellow;
+  column-count: 2;
+  justify-items: center;
+}
+
+#about-top .cards-wrapper .card {
+  margin: auto;
+}
+
+#about-top .cards-wrapper img {
+  border: solid 2px orange;
+  margin: auto;
+}
+
+#about-bottom {
+  background-color: #EDEDED;
+}
+
+#about-bottom .container {
+  padding: 25px 0;
+  border: solid 2px blue;
+  text-align: center;
+}

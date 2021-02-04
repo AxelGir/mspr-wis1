@@ -43,3 +43,27 @@
 #presentation-middle .card:hover {
   cursor: inherit;
 }
+
+#about-top .card {
+  padding: 0 10px 20px 10px;
+  max-width: 600px;
+  max-height: 850px;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  color: $primary;
+  text-align: center;
+  flex-grow: 1;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.6);
+}
+
+#about-top .card:hover {
+  cursor: inherit;
+}
+
+#about-top .card img {
+    display: block;
+    width: 75%;
+    max-height: 600px;
+    margin: auto;
+}
