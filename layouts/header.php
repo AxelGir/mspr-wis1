@@ -20,7 +20,8 @@
 <body>
 
 
-<header class="header">
+<header id="header" class="header">
+    <div class="container">
     <a href="./" class="logo">
         <img src="images/logo%20Avant-gourde.png" alt="logo Avant-gourde">
     </a>
@@ -70,4 +71,12 @@
             </li>
         </ul>
     </nav>
+    </div>
 </header>
+
+<script>
+    window.addEventListener("scroll", function () {
+        let header = document.getElementById("header");
+        header.classList.toggle("scrolled", window.scrollY > 100);
+    })
+</script>

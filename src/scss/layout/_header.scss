@@ -1,13 +1,29 @@
 .header {
-  background: #360890;
-  position: relative;
+  background: $primary;
+  position: fixed;
   max-width: 100%;
+  width: 100%;
   margin: auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 1rem 2rem;
   z-index: 1;
+
+  &.scrolled {
+    background-color: transparent;
+    filter: blur(1px);
+  }
+
+  &.scrolled a {
+    color: $secondary;
+  }
+}
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
 }
 .header a {
   text-decoration: none;
