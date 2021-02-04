@@ -11613,3 +11613,17 @@ textarea.form-control-lg {
   color: #fff;
   text-transform: uppercase;
 }
+
+#tarifs-selector input[type=radio] {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  display: none;
+}
+#tarifs-selector input[type=radio] + label {
+  display: block;
+  border: 2px solid transparent;
+}
+#tarifs-selector input[type=radio]:checked + label {
+  border-color: red;
+}

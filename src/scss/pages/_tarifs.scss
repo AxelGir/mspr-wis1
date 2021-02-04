@@ -1,0 +1,16 @@
+#tarifs-selector {
+
+  input[type="radio"] {
+    appearance: none;
+    display: none;
+
+    & + label {
+      display: block;
+      border: 2px solid transparent;
+    }
+
+    &:checked + label {
+      border-color: red;
+    }
+  }
+}
