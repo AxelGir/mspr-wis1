@@ -22,9 +22,9 @@
         <section id="concept-middle">
             <div class="container">
                 <div class="images-wrapper">
-                    <img src="https://placehold.it/300" alt="illustration-plastique">
-                    <img src="https://placehold.it/300" alt="illustration-verre">
-                    <img src="https://placehold.it/300" alt="illustration-metal">
+                    <img src="images/gourde-card-1.png" alt="illustration-plastique">
+                    <img src="images/gourde-card-3.png" alt="illustration-verre">
+                    <img src="images/gourde-card-2.png" alt="illustration-metal">
                 </div>
             </div>
         </section>
