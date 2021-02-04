@@ -6,7 +6,7 @@
 
     <section id="presentation-top">
         <div class="container">
-            <h2>- La gourde en metal -</h2>
+            <h2 class="home-title">- La gourde en metal -</h2>
             <img src="https://placehold.it/400x400">
         </div>
     </section>

@@ -15,11 +15,11 @@
         <div class="container">
             <div class="cards-wrapper">
                 <div class="card">
-                    <img src="https://placehold.it/400x400">
+                    <img src="images/plastique-square.jpg">
                     <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos ex illum saepe sed. Fugit, mollitia?</span>
                 </div>
                 <div class="card">
-                    <img src="https://placehold.it/400x400">
+                    <img src="images/plastique-paysage3.jpg">
                     <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos ex illum saepe sed. Fugit, mollitia?</span>
                 </div>
             </div>
@@ -37,7 +37,7 @@
                     voluptatibus?</p>
             </div>
 
-            <a class="see-price" href="#">Voir les tarifs</a>
+            <a class="btn btn-tarifs" href="#">Voir les tarifs</a>
 
         </div>
     </section>
