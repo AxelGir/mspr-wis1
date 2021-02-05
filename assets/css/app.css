@@ -10833,6 +10833,18 @@ textarea.form-control-lg {
   padding-top: 110px;
 }
 
+h1, .h1 {
+  font-family: "Cambria Math";
+}
+
+h2, .h2 {
+  font-family: "Cambria Math";
+}
+
+h3, .h3 {
+  font-family: "Cambria Math";
+}
+
 .header {
   background: #130E0A;
   position: fixed;
