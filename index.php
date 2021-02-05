@@ -5,10 +5,17 @@
     <main id="main">
         <section id="home-fs" style="background-image: url(images/gourde-stylee.jpg)">
             <div class="container">
+
                 <h1>AVANT-GOURDE</h1>
-                <div class="home-icon">
-                    <img src="images/water.svg"/>
+
+                <div class="images-wrapper">
+                    <img src="images/bottle.svg" alt="gourde-qui-verse"/>
                 </div>
+
+                <div class="home-icon">
+                    <img src="images/water-drop.svg" alt="goutte-qui-tombe"/>
+                </div>
+
             </div>
         </section>
 
