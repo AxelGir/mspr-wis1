@@ -6,11 +6,42 @@
   text-align: center;
 }
 
-#home-fs .container {
-  padding-top: 20%;
+@keyframes float {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-40px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}
+
+.container {
+  text-align: center;
+  padding-top: 25px;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-icon {
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  box-sizing: border-box;
+  overflow: hidden;
+  transform: translatey(0px);
+  animation: float 4s ease-in-out infinite;
+
+  img {
+    width: 100%;
+    height: auto;
+  }
 }
 
 #home-fs .container h1 {
+  margin-top: 180px;
   font-size: 172px;
   color: white;
   font-family: "Cambria Math";
