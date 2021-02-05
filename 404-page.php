@@ -14,7 +14,7 @@
 
 <section id="back">
     <div class="container">
-        <a class="btn btn-tarifs btn-back" href="./">Revenez à l'accueil !</a>
+        <a class="btn btn-back" href="./">Revenez à l'accueil !</a>
     </div>
 </section>
 

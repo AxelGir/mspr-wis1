@@ -39,7 +39,7 @@
                 <span>
                     A présent que vous en savez plus sur nous,
                 </span>
-                <a class="btn-grad" href="tarifs.php">Consultez nos tarifs ?!</a>
+                <a class="btn-tarifs" href="tarifs.php">Consultez nos tarifs ?!</a>
             </div>
         </section>
 

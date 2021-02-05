@@ -10740,10 +10740,29 @@ textarea.form-control-lg {
 }
 
 .btn-tarifs {
-  height: 50px;
-  width: 270px;
-  font-size: 24px;
+  background-image: linear-gradient(to right, #130E0A 0%, #ff652f 51%, #130E0A 100%);
+}
+
+.btn-tarifs {
+  max-width: 400px;
+  width: 100%;
+  margin: 10px;
+  padding: 15px 45px;
   text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+}
+
+.btn-tarifs:hover {
+  background-position: right center;
+  /* change the direction of the change here */
+  color: #fff;
+  text-transform: uppercase;
 }
 
 .btn-back {
@@ -10842,6 +10861,10 @@ h2, .h2 {
 }
 
 h3, .h3 {
+  font-family: "Cambria Math";
+}
+
+#header {
   font-family: "Cambria Math";
 }
 
@@ -11289,7 +11312,6 @@ h3, .h3 {
 #home-fs {
   min-height: 750px;
   height: 100%;
-  padding-bottom: 25px;
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -11310,7 +11332,8 @@ h3, .h3 {
 }
 
 #home-concept {
-  padding: 25px 0;
+  padding-top: 50px;
+  padding-bottom: 25px;
   background-color: #EDEDED;
   text-align: center;
 }
@@ -11588,12 +11611,16 @@ h3, .h3 {
 
 #about-top .container {
   text-align: center;
+  padding: 25px;
+}
+
+#about-top h3, #about-top .h3 {
+  padding: 50px 0;
 }
 
 #about-top .cards-wrapper {
   -moz-column-count: 2;
        column-count: 2;
-  justify-items: center;
 }
 
 #about-top .cards-wrapper .card {
@@ -11611,35 +11638,11 @@ h3, .h3 {
 
 #about-bottom .container {
   text-align: center;
+  padding-bottom: 50px;
 }
 
 #about-bottom span {
   font-size: 24px;
-}
-
-.btn-grad {
-  background-image: linear-gradient(to right, #130E0A 0%, #ff652f 51%, #130E0A 100%);
-}
-
-.btn-grad {
-  margin: 10px;
-  padding: 15px 45px;
-  text-align: center;
-  text-transform: uppercase;
-  text-decoration: none;
-  transition: 0.5s;
-  background-size: 200% auto;
-  color: white;
-  box-shadow: 0 0 20px #eee;
-  border-radius: 10px;
-  display: block;
-}
-
-.btn-grad:hover {
-  background-position: right center;
-  /* change the direction of the change here */
-  color: #fff;
-  text-transform: uppercase;
 }
 
 #tarifs-selector input[type=radio] {

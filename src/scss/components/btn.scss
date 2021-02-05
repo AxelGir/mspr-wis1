@@ -13,11 +13,29 @@
 }
 
 .btn-tarifs {
-  height: 50px;
-  width: 270px;
-  font-size: 24px;
-  text-align: center;
+  background-image: linear-gradient(to right, $primary 0%, $secondary 51%, $primary 100%)
 }
+
+  .btn-tarifs {
+    max-width: 400px;
+    width: 100%;
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+  }
+
+  .btn-tarifs:hover {
+    background-position: right center ; /* change the direction of the change here */
+    color: #fff;
+    text-transform: uppercase;
+  }
 
 .btn-back {
   background-color: #fff;

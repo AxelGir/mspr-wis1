@@ -5,11 +5,15 @@
 
 #about-top .container {
   text-align: center;
+  padding: 25px;
+}
+
+#about-top h3 {
+  padding: 50px 0
 }
 
 #about-top .cards-wrapper {
   column-count: 2;
-  justify-items: center;
 }
 
 #about-top .cards-wrapper .card {
@@ -27,33 +31,9 @@
 
 #about-bottom .container {
   text-align: center;
+  padding-bottom: 50px;
 }
 
 #about-bottom span {
   font-size: 24px;
-}
-
-
-.btn-grad {
-  background-image: linear-gradient(to right, $primary 0%, $secondary 51%, $primary 100%)
-}
-
-.btn-grad {
-  margin: 10px;
-  padding: 15px 45px;
-  text-align: center;
-  text-transform: uppercase;
-  text-decoration: none;
-  transition: 0.5s;
-  background-size: 200% auto;
-  color: white;
-  box-shadow: 0 0 20px #eee;
-  border-radius: 10px;
-  display: block;
-}
-
-.btn-grad:hover {
-  background-position: right center ; /* change the direction of the change here */
-  color: #fff;
-  text-transform: uppercase;
 }

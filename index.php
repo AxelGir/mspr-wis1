@@ -28,19 +28,19 @@
                     <div class="card">
                         <img src="images/gourde-card-1.png"
                              alt="gourde-en-plastique">
-                        <h3>Nos gourdes en plastique</h3>
+                        <h3>Notre gourde en plastique</h3>
                         <a class="btn" href="./details-plastique.php">En savoir plus</a>
                     </div>
                     <div class="card">
                         <img src="images/gourde-card-3.png"
                              alt="gourde-en-verre">
-                        <h3>Nos gourdes en verre</h3>
+                        <h3>Notre gourde en verre</h3>
                         <a class="btn" href="./details-verre.php">En savoir plus</a>
                     </div>
                     <div class="card">
                         <img src="images/gourde-card-2.png"
                              alt="gourde-en-metal">
-                        <h3>Nos gourdes en métal</h3>
+                        <h3>Notre gourde en métal</h3>
                         <a class="btn" href="./details-metal.php">En savoir plus</a>
                     </div>
                 </div>
