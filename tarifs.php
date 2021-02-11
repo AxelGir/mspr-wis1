@@ -1,8 +1,8 @@
 <?php
 $products = [
-    'plastique' =>  ['name' => 'plastique', 'price' => '11'],
-    'verre' => ['name' => 'verre', 'price' => '14'],
-    'metal' => ['name' => 'metal', 'price' => '12'],
+    'plastique_gourd' =>  ['name' => 'plastique_gourd', 'price' => '11'],
+    'verre_gourd' => ['name' => 'verre_gourd', 'price' => '14'],
+    'metal_gourd' => ['name' => 'metal_gourd', 'price' => '12'],
     '0.5' => ['name' => '0.5', 'price' => '1'],
     '1' => ['name' => '1', 'price' => '3'],
     '2' => ['name' => '2', 'price' => '5'],
@@ -17,17 +17,12 @@ if ($_POST) {
         endif;
         return $value;
     }
-    function getRealPrice($gourdes_price = 0, $size = 0)
-    {
-        return $gourdes_price +  $size;
-    }
 
     $price = getValueFromField('price');
-    $gourdes_price = getValueFromField('gourdes_price');
+    $gourdes_price = getValueFromField('img-select');
     $size = getValueFromField('size');
-    $price_ttc = getRealPrice($price, $size);
+    $price_ttc = $gourdes_price + $size;
 }
-
 ?>
 <?php $title = 'Avant-Gourde - Tarifs'; ?>
 <?php require_once 'layouts/header.php' ?>
@@ -42,7 +37,6 @@ if ($_POST) {
         <div class="container">
             <div class="selector-gourd">
                 <form action="" method="post">
-
                     <div class="container-img d-flex">
                         <div class="form-group">
                             <input type="radio" id="plastique" name="img-select" value="11">
@@ -58,7 +52,7 @@ if ($_POST) {
                         </div>
                         <div class="form-group">
                             <input type="radio" id="metal" name="img-select"
-                            value="<?php echo $products['gourdes_price']; ?>">
+                            value="12">
                             <label for="metal">
                                 <img src="http://placehold.it/200" alt="Gourde en métal">
                             </label>
