@@ -6,10 +6,11 @@
             <div class="container">
                 <h2 class="home-title">- A PROPOS DE NOUS -</h2>
 
-                <p>Concernant l'origine de <b>Avant-Gourde</b>, Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aliquam aperiam culpa dicta dolore
-                    dolorum ducimus ea eveniet harum impedit magni mollitia, optio perspiciatis provident quae qui
-                    quibusdam repellat sapiente sed sequi sint unde ut vero! Est officiis, vitae! Ab dicta facilis iste
-                    itaque laboriosam nam, odio porro ut voluptates?</p>
+                <p>Concernant l'origine de <b>Avant-Gourde</b>, On pourrait la résumer à une rencontre des plus communes
+                    entre Dewi et Axel. En école post-bac, une idée nous est venue (parce que nous avions ce
+                    problème de ne jamais pouvoir conserver notre boisson favorite à bonne température !)  de créer
+                    des gourdes capables de conserver notre boisson à la température de
+                    notre choix. Génial non ?</p>
 
                 <h3 class="home-title">- ET CONCERNANT L'ÉQUIPE -</h3>
 
@@ -37,9 +38,9 @@
         <section id="about-bottom">
             <div class="container">
                 <span>
-                    A présent que vous en savez plus sur nous,
+                    A présent que vous en savez plus sur nous, vous pouvez
                 </span>
-                <a class="btn-tarifs" href="tarifs.php">Consultez nos tarifs ?!</a>
+                <a class="btn-tarifs" href="tarifs.php">Consulter nos tarifs !</a>
             </div>
         </section>
 
