@@ -11729,6 +11729,51 @@ a {
   border-color: red;
 }
 
+#tarifs-top {
+  padding: 25px 0;
+}
+
+#tarifs-top .container {
+  padding: 25px 0;
+  text-align: center;
+  align-items: center;
+}
+
+#tarifs-selector {
+  padding: 25px 0;
+  align-items: center;
+}
+
+#tarifs-selector .form-group {
+  background-color: white;
+}
+
+#tarifs-selector .form-group img:hover {
+  background-color: #130E0A;
+  transition: 0.8s ease background;
+}
+
+#tarifs-selector .form-group img {
+  display: block;
+  width: 75%;
+  max-height: 300px;
+  margin: auto;
+}
+
+#tarifs-selector .selector-size {
+  padding: 25px 0;
+}
+
+#tarifs-selector .result {
+  padding: 25px 0;
+  align-items: center;
+  text-align: center;
+}
+
+#tarifs-selector .result output {
+  font-size: 24px;
+}
+
 #not-found {
   width: 100%;
   height: 100%;

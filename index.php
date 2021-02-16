@@ -104,7 +104,7 @@
 
         <section id="home-contact">
             <div class="container">
-                <h2 class="home-title">- Notre contact -</h2>
+                <h2 class="home-title">- Contactez-nous -</h2>
                 <span class="question">Une question sur nos produits ou tout simplement une demande particulière ?</span>
                 <div class="btn-wrapper">
                     <a class="btn" href="./contact.php">Nous contacter !</a>

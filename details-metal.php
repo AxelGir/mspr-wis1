@@ -36,7 +36,7 @@
                     voluptatibus?</p>
             </div>
 
-            <a class="btn btn-tarifs" href="#">Voir les tarifs</a>
+            <a class="btn btn-tarifs" href="./tarifs.php">Voir les tarifs</a>
 
         </div>
     </section>
