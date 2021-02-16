@@ -6,11 +6,10 @@
             <div class="container">
                 <h2 class="home-title">- A PROPOS DE NOUS -</h2>
 
-                <p>Concernant l'origine de <b>Avant-Gourde</b>, On pourrait la résumer à une rencontre des plus communes
-                    entre Dewi et Axel. En école post-bac, une idée nous est venue (parce que nous avions ce
-                    problème de ne jamais pouvoir conserver notre boisson favorite à bonne température !)  de créer
-                    des gourdes capables de conserver notre boisson à la température de
-                    notre choix. Génial non ?</p>
+                <p>Nous avons décidé de faire équipe assez rapidement, ce choix était pour nous une évidence étant donné
+                    que nous sommes très complémentaire et qu'on sait travailler ensemble. Nous nous sommes partagé les
+                    tâches à réaliser et on a finalement pu proposer une production qui correspondait à nos
+                    attentes.</p>
 
                 <h3 class="home-title">- ET CONCERNANT L'ÉQUIPE -</h3>
 

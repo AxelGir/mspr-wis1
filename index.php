@@ -22,11 +22,11 @@
         <section id="home-concept">
             <div class="container">
                 <h2 class="home-title">- Notre concept -</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur cum debitis delectus,
-                    dolores earum, explicabo facilis fuga fugiat illo impedit in laboriosam laborum laudantium minus
-                    mollitia numquam odit possimus quae, rem saepe sunt tempora ullam! Accusantium, dignissimos
-                    ducimus
-                    ipsam molestias odit quae veniam? A asperiores consequuntur inventore maiores provident [...]</p>
+                <p>Concernant l'origine de <b>Avant-Gourde</b>, on pourrait la résumer à une rencontre des plus communes
+                    entre Dewi et Axel. En école post-bac, une idée nous est venue (parce que nous avions ce
+                    problème de ne jamais pouvoir conserver notre boisson favorite à bonne température !) de créer
+                    des gourdes capables de conserver notre boisson à la température de
+                    notre choix. [...]</p>
                 <a class="btn" href="./concept.php">En savoir plus...</a>
             </div>
         </section>
@@ -93,11 +93,10 @@
         <section id="home-about">
             <div class="container">
                 <h2 class="home-title">- A propos de nous -</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur cum debitis delectus,
-                    dolores earum, explicabo facilis fuga fugiat illo impedit in laboriosam laborum laudantium minus
-                    mollitia numquam odit possimus quae, rem saepe sunt tempora ullam! Accusantium, dignissimos
-                    ducimus
-                    ipsam molestias odit quae veniam? A asperiores consequuntur inventore maiores provident!</p>
+                <p>Nous avons décidé de faire équipe assez rapidement, ce choix était pour nous une évidence étant donné
+                    que nous sommes très complémentaires et qu'on sait travailler ensemble. Nous nous sommes partagé les
+                    tâches à réaliser et on a finalement pu proposer une production qui correspondait à nos
+                    attentes.</p>
                 <a class="btn btn-know-more" href="./about.php">En savoir plus...</a>
             </div>
         </section>
