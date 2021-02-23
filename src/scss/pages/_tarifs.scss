@@ -4,13 +4,13 @@
     appearance: none;
     display: none;
 
-    & + label {
+    & + img {
       display: block;
       border: 2px solid transparent;
     }
 
-    &:checked + label {
-      border-color: red;
+    &:checked + img {
+      background-color: $primary;
     }
   }
 }
@@ -49,4 +49,7 @@
 }
 #tarifs-selector .result output{
   font-size: 24px;
+}
+#tarifs-selector .selector-size {
+  justify-content: space-between;
 }
