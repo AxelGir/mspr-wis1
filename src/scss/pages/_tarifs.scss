@@ -4,13 +4,13 @@
     appearance: none;
     display: none;
 
-    & + img {
+    & + label {
       display: block;
       border: 2px solid transparent;
     }
 
-    &:checked + img {
-      background-color: $primary;
+    &:checked + label {
+      border-color: red;
     }
   }
 }
