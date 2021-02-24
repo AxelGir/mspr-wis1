@@ -11715,6 +11715,10 @@ a {
   font-size: 24px;
 }
 
+#main {
+  text-align: center;
+}
+
 #tarifs-selector input[type=radio] {
   -webkit-appearance: none;
      -moz-appearance: none;
@@ -11726,11 +11730,13 @@ a {
   border: 2px solid transparent;
 }
 #tarifs-selector input[type=radio]:checked + label {
-  border-color: red;
+  border: 4px solid #ff652f;
+  background-color: #130E0A;
 }
 
 #tarifs-top {
   padding: 25px 0;
+  background-color: #EDEDED;
 }
 
 #tarifs-top .container {
@@ -11741,11 +11747,11 @@ a {
 
 #tarifs-selector {
   padding: 25px 0;
-  align-items: center;
+  background-color: #EDEDED;
 }
 
 #tarifs-selector .form-group {
-  background-color: white;
+  background-color: #EDEDED;
 }
 
 #tarifs-selector .form-group img:hover {
@@ -11757,7 +11763,7 @@ a {
   display: block;
   width: 75%;
   max-height: 300px;
-  margin: auto;
+  justify-content: space-between;
 }
 
 #tarifs-selector .selector-size {
@@ -11772,6 +11778,10 @@ a {
 
 #tarifs-selector .result output {
   font-size: 24px;
+}
+
+#tarifs-selector .selector-size {
+  justify-content: space-between;
 }
 
 #not-found {
